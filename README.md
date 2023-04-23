@@ -13,3 +13,7 @@ mathjs is used to convert the text captcha calculation to numerical arithmetic v
 
 Code: Javascript
 Framework: Cypress
+
+How to Run:
+npx cypress open 
+Enter the above command from the project path and runthe spec file named "juicecustomerfeedback.cy.js"
